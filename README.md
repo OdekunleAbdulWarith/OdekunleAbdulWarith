@@ -1,5 +1,5 @@
 
-# Hi, I'm Oekunle Adbdul Warith 👋
+# Hi, I'm Odekunle Abddul Warith 👋
 
 ### Frontend Developer | Growing into a Software Engineer
 
